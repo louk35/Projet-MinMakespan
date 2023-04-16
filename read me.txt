@@ -1,0 +1,33 @@
+Bonjour, bonsoir,
+
+Vous trouverez dans ce fichier.txt toutes les informations afin de lancer l'exécutable.
+Le rapport contenant la partie 1 et 2 du projet se trouve dans le fichier 
+" Rapport de projet Min Makespan.pdf "
+Le fichier contenant le code se nome " minmakespan.py "
+
+Tout d'abord, si vous avez PyCharm sur le PC (car il n'est pas sur tous les PC)
+1/ Vous lancez PyCharm.
+2/ Dans fichier en haut à gauche
+3/ Ouvrir un fichier (selectionner le fichier minmakespan.py)
+4/ Vouc cliquerez sur la petite flèche verte afin d'éxécuté le programme.
+
+Dans le cas où PyCharm n'est pas installé, pas de problèmes!
+
+1/ Ouvrez IDLE(python)
+2/ En haut à gauche, aller dans file
+3/ Open (selectionner le fichier minmakespan.py)
+** Une autre fenêtre s'ouvre **
+4/ Sur celle-ci, en haut cliquez sur Run
+5/ Run module ( puis le programme se lance )
+
+
+Tous les print en commentaires dans le code m'ont permis de visualisé où j'en étais.
+Le code est commenté.
+
+======================================================================================
+Nota Bene :
+J'ai effectuer l'entièreté du projet tout seul car mon binôme a abandonné la FAC.
+
+Cordialement,
+
+Placé Louka
